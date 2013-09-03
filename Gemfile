@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'guard-rspec'
-gem 'debugger'
+#gem 'debugger'
 
 if RUBY_PLATFORM.downcase.include?("darwin")
   gem 'rb-fsevent'

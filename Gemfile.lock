@@ -2,13 +2,6 @@ GEM
   remote: https://rubygems.org/
   specs:
     coderay (1.0.9)
-    columnize (0.3.6)
-    debugger (1.6.0)
-      columnize (>= 0.3.1)
-      debugger-linecache (~> 1.2.0)
-      debugger-ruby_core_source (~> 1.2.1)
-    debugger-linecache (1.2.0)
-    debugger-ruby_core_source (1.2.2)
     diff-lcs (1.2.4)
     ffi (1.9.0)
     formatador (0.2.4)
@@ -52,7 +45,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  debugger
   guard-rspec
   rb-fsevent
   ruby_gntp
